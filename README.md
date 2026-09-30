@@ -2,6 +2,8 @@
 
 A lightweight, locally running AI chatbot built with **Python, Streamlit, Ollama, and Llama**. The application provides a simple conversational interface where users can interact with a locally hosted Large Language Model (LLM) without relying on external AI APIs.
 
+https://marlan-s.github.io/localAI/
+
 ## ✨ Overview
 
 This project demonstrates how a locally hosted LLM can be integrated into a Python web application to create an interactive AI chatbot.
